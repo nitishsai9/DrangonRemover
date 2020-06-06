@@ -1,0 +1,2 @@
+# DrangonRemover
+Chinese App Remover
